@@ -4,6 +4,6 @@
 using namespace std;
 
 void gannahatef(){
-	cout<<"gannahatef";
-	cout<<"gannahatef@aucegypt.edu";
+	cout<<"gannahatef"<<endl;
+	cout<<"gannahatef@aucegypt.edu"<<endl;
 }
